@@ -2,6 +2,8 @@
 
 Template projectnya, masih perlu dibenahi lagi terutama dibagian system backendnya
 
+Feel free untuk dipakai dan dikomersialkan, silahkan edit dan tambahkan sendiri sesuai kebutuhan anda yaa!
+
 ![image](https://github.com/user-attachments/assets/d3e35acc-5082-4b81-8eb0-dfb76f24f86e)
 ![image](https://github.com/user-attachments/assets/52997d4e-514e-4691-9bdf-c9d1f3d2caed)
 ![image](https://github.com/user-attachments/assets/b4285a44-8d25-4f66-94df-85dc542c9216)
